@@ -1,0 +1,20 @@
+.inner {
+  &__block {
+    font-size: medium;
+    font-weight: 400;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: inset 50px;
+    &_first.active {
+      color: chocolate;
+    }
+    &_second {
+      color: aqua;
+    }
+    &_third {
+        color: blanchedalmond;
+    }
+    &_comeback {
+        color: brown;
+    }
+  }
+}

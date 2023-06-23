@@ -1,10 +1,10 @@
 import React from "react";
 import style from "./style.module.scss";
 
-export const Block = () => {
+export const Post = () => {
   return (
     <>
-      <h1 className={style.block}>Hello</h1>
+      <h1 className={style.about}>Post</h1>
     </>
   );
 };
