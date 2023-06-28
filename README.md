@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 
-<b<a href=
+<b><a href=
 "https://qna.habr.com/q/647080" alt=
 ''>
 In the project directory, you can run:</a>
