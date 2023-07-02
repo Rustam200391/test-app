@@ -3,7 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</h3>
 
 ## Available Scripts
-
 <a href=
 "https://qna.habr.com/q/647080" alt=
 ''>
