@@ -4,7 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-
 <a href=
 "https://qna.habr.com/q/647080" alt=
 ''>
