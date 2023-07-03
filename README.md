@@ -12,7 +12,7 @@ In the project directory, you can run:</a>
 <i>Runs the app in the development mode.<\i>
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<ins>The page will reload when you make changes.
+<ins>The< page will reload when you make changes.
 You may also see any lint errors in the console.
 
 ### `npm test`
