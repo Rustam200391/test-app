@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Available Scripts
 <a href=
 "https://qna.habr.com/q/647080" alt=''>
