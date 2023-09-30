@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-
+This project was bootstrapped with 
 ## Available Scripts
 <a href=
 "https://qna.habr.com/q/647080" alt=''>
